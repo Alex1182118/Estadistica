@@ -1,0 +1,13 @@
+C:\Users\alexg\OneDrive\Documents\Landivar\Estadistica Inferencial\Estadistica\Estadistica\bin\Debug\netcoreapp3.1\Estadistica.exe
+C:\Users\alexg\OneDrive\Documents\Landivar\Estadistica Inferencial\Estadistica\Estadistica\bin\Debug\netcoreapp3.1\Estadistica.deps.json
+C:\Users\alexg\OneDrive\Documents\Landivar\Estadistica Inferencial\Estadistica\Estadistica\bin\Debug\netcoreapp3.1\Estadistica.runtimeconfig.json
+C:\Users\alexg\OneDrive\Documents\Landivar\Estadistica Inferencial\Estadistica\Estadistica\bin\Debug\netcoreapp3.1\Estadistica.runtimeconfig.dev.json
+C:\Users\alexg\OneDrive\Documents\Landivar\Estadistica Inferencial\Estadistica\Estadistica\bin\Debug\netcoreapp3.1\Estadistica.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estadistica Inferencial\Estadistica\Estadistica\bin\Debug\netcoreapp3.1\Estadistica.pdb
+C:\Users\alexg\OneDrive\Documents\Landivar\Estadistica Inferencial\Estadistica\Estadistica\obj\Debug\netcoreapp3.1\Estadistica.csprojAssemblyReference.cache
+C:\Users\alexg\OneDrive\Documents\Landivar\Estadistica Inferencial\Estadistica\Estadistica\obj\Debug\netcoreapp3.1\Estadistica.csproj.CoreCompileInputs.cache
+C:\Users\alexg\OneDrive\Documents\Landivar\Estadistica Inferencial\Estadistica\Estadistica\obj\Debug\netcoreapp3.1\Estadistica.AssemblyInfoInputs.cache
+C:\Users\alexg\OneDrive\Documents\Landivar\Estadistica Inferencial\Estadistica\Estadistica\obj\Debug\netcoreapp3.1\Estadistica.AssemblyInfo.cs
+C:\Users\alexg\OneDrive\Documents\Landivar\Estadistica Inferencial\Estadistica\Estadistica\obj\Debug\netcoreapp3.1\Estadistica.dll
+C:\Users\alexg\OneDrive\Documents\Landivar\Estadistica Inferencial\Estadistica\Estadistica\obj\Debug\netcoreapp3.1\Estadistica.pdb
+C:\Users\alexg\OneDrive\Documents\Landivar\Estadistica Inferencial\Estadistica\Estadistica\obj\Debug\netcoreapp3.1\Estadistica.genruntimeconfig.cache
